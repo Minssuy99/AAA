@@ -68,6 +68,7 @@
 
 </details>
 
+</br>
 
 <!--------------------------------------------------------->
 <!------------------------Rules---------------------------->
@@ -86,6 +87,6 @@
 ```bash
 Year-Month-Day [Filename] Add/Fix/Update/Move > Info
 
-ex) 2024-04-26 [meleeAttack.cs] Add > 
+ex) 2024-04-26 [meleeAttack.cs] Add > 파일을 추가했습니다.
 ex) 2024-04-26 [PlayerMovement.cs] Update > 각주를 추가했습니다.
 ```
